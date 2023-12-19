@@ -9,7 +9,7 @@ import com.example.unscramble.data.allWords
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
 
-
+//Business Logic and UI is decoupled.
 class GameViewModel:ViewModel() {
     private lateinit var currentWord: String
     // Set of words used in the game

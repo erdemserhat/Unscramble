@@ -156,7 +156,7 @@ fun GameLayout(
 
     Card(
         modifier = modifier,
-        elevation = CardDefaults.cardElevation(defaultElevation = 5.dp)
+        elevation = CardDefaults.cardElevation(defaultElevation = 5.dp),
     ) {
         Column(
             verticalArrangement = Arrangement.spacedBy(mediumPadding),

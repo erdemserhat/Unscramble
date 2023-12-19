@@ -19,3 +19,7 @@ Getting Started
 2. Download the sample.
 3. Import the sample into Android Studio.
 4. Build and run the sample.
+
+//Continue from section 7
+
+https://developer.android.com/codelabs/basic-android-kotlin-compose-viewmodel-and-state#66
