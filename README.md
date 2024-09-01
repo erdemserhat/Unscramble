@@ -1,6 +1,6 @@
 # Unscramble App
 
-The **Unscramble** app is a single-player word game designed for Android devices. It presents players with a scrambled word and challenges them to create a valid word using all the letters from the displayed scrambled word.
+The **Unscramble** app is a single-player word game designed for Android devices. It presents players with a scrambled word and challenges them to create a valid word using all the letters from the displayed scrambled word
 
 ## Features
 
